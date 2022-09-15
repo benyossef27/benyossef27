@@ -8,7 +8,7 @@
 <h3 align="center">Languages and Tools:</h3>
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,ts,tailwind,jest,nodejs,express,mongodb,figma,git,gcp,webpack" /><img src="https://skillicons.dev/icons?i=nextjs,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,jest,nodejs,express,mongodb,figma,git,gcp,webpack" /><img src="https://skillicons.dev/icons?i=nextjs,materialui" />
   </a>
 </p>
 
